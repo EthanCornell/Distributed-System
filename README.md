@@ -16,4 +16,4 @@ Explore collaborative, scalable solutions for networked applications with the fo
 
 4. [MapReduce Project](https://github.com/EthanCornell/MapReduce)
 
-   **Introduction:** This project entails developing a MapReduce framework tailored for a word counting task. The objective is to implement a master server responsible for orchestrating workers, delegating tasks, and aggregating results. Tasks involve processing large text files, ignoring non-Latin symbols, and converting text to lowercase. Participants are required to craft their own map and reduce functions for this purpose.
+   **Overview:** This project entails developing a MapReduce framework tailored for a word counting task. The objective is to implement a master server responsible for orchestrating workers, delegating tasks, and aggregating results. Tasks involve processing large text files, ignoring non-Latin symbols, and converting text to lowercase. Participants are required to craft their own map and reduce functions for this purpose.
