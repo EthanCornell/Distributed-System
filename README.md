@@ -14,7 +14,7 @@ Explore collaborative, scalable solutions for networked applications with the fo
 
 2. [Distributed File System](https://github.com/EthanCornell/Distrbuted-Filesystem)
 
-   **Overview:** In this assignment, you will develop a working distributed file server. The project provides minimal UDP communication code, and the rest needs to be built. The file server operates as a stand-alone UDP-based server, waiting for messages, processing them, and replying to clients accordingly.
+   **Overview:** In this project, you will develop a working distributed file server. The project provides minimal UDP communication code, and the rest needs to be built. The file server operates as a stand-alone UDP-based server, waiting for messages, processing them, and replying to clients accordingly.
 
 3. [Peer-to-Peer Application with Gossip Protocol in C++](https://github.com/EthanCornell/Gossip-protocol)
 
