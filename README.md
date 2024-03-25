@@ -6,12 +6,6 @@ Explore collaborative, scalable solutions for networked applications with the fo
 
    **Overview:** This project involves developing a concurrent web server. Initially, a non-concurrent web server code is provided, and the task is to make it multi-threaded to handle multiple requests concurrently. The goals include understanding the basic architecture of a web server, adding concurrency to a non-concurrent system, and effectively reading and modifying an existing codebase.
 
-   **Useful Reading:** 
-   - Intro to threads
-   - Using locks
-   - Producer-consumer relationships
-   - Server concurrency architecture
-
 2. [Distributed File System](https://github.com/EthanCornell/Distrbuted-Filesystem)
 
    **Overview:** In this project, you will develop a working distributed file server. The project provides minimal UDP communication code, and the rest needs to be built. The file server operates as a stand-alone UDP-based server, waiting for messages, processing them, and replying to clients accordingly.
