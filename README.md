@@ -14,6 +14,21 @@ Explore collaborative, scalable solutions for networked applications with the fo
 
    **Overview:** Building a small peer-to-peer (P2P) application in C++ involves understanding required functionality, protocols, testing, and documenting the implementation. Functional requirements include peer discovery, message exchange, peer-to-peer communication, concurrency, and error handling. Implementation guidelines cover networking, threading, and serialization.
 
-4. [MapReduce Project](https://github.com/EthanCornell/MapReduce)
+4. [MapReduce](https://github.com/EthanCornell/MapReduce)
 
    **Overview:** This project entails developing a MapReduce framework tailored for a word counting task. The objective is to implement a master server responsible for orchestrating workers, delegating tasks, and aggregating results. Tasks involve processing large text files, ignoring non-Latin symbols, and converting text to lowercase. Participants are required to craft their own map and reduce functions for this purpose.
+5.  [Key/Value Server]()
+  
+6.  [Raft]()
+
+    **Overview:**
+    6a. leader election
+    6b. log
+    6c. persistence
+    6d. log compaction
+7.  Fault-tolerant Key/Value Service
+
+    **Overview:**
+    7a. Key/value service without snapshots
+    7b. Key/value service with snapshots
+9.  Sharded Key/Value Service
