@@ -17,18 +17,24 @@ Explore collaborative, scalable solutions for networked applications with the fo
 4. ## [MapReduce](https://github.com/EthanCornell/MapReduce)
 
    **Overview:** This project entails developing a MapReduce framework tailored for a word counting task. The objective is to implement a master server responsible for orchestrating workers, delegating tasks, and aggregating results. Tasks involve processing large text files, ignoring non-Latin symbols, and converting text to lowercase. Participants are required to craft their own map and reduce functions for this purpose.
-5.  ## [Key/Value Server]()
+
+5. ## [MapReduce System Implementation in Go](https://github.com/EthanCornell/MapReduce-in-Go)
+
+   **Overview** This project entails developing a MapReduce system, similar to the one described in the MapReduce paper. We'll implement a worker process that calls application Map and Reduce functions, handles file I/O, and a coordinator process that distributes tasks to workers and manages failures. This README guides you through the setup and implementation of the system.
+
+6. ## [Key/Value Server]()
   
-6.  ## [Raft]()
+7.  ## [Raft]()
 
     **Overview:**
-    6a. leader election
-    6b. log
-    6c. persistence
-    6d. log compaction
-7.  ## Fault-tolerant Key/Value Service
+    7a. leader election
+    7b. log
+    7c. persistence
+    7d. log compaction
+8.  ## Fault-tolerant Key/Value Service
 
     **Overview:**
-    7a. Key/value service without snapshots
-    7b. Key/value service with snapshots
+    8a. Key/value service without snapshots
+    8b. Key/value service with snapshots
+
 9.  ## Sharded Key/Value Service
