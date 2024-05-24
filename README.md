@@ -24,7 +24,7 @@ Explore collaborative, scalable solutions for networked applications with the fo
 
 6. ## [Key/Value Server]()
   
-7.  ## [Raft]()
+7.  ## [Raft in C++](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)
 
     **Overview:**
     7a. leader election
